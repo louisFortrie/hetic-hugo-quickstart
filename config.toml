@@ -7,5 +7,5 @@
 theme = 'blowfish'
 baseURL = 'http://example.com/'
 languageCode = 'fr'
-title = 'Mon blog sur Hugo'
+title = 'Louis Fortrie'
 
