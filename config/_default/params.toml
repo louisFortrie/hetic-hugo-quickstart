@@ -35,11 +35,11 @@ disableImageOptimization = true
   showScrollToTop = true
 
 [homepage]
-  layout = "hero" # valid options: page, profile, hero, card, background, custom
-  #homepageImage = "IMAGE.jpg" # used in: hero, and card
+  layout = "custom" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "images/gradient.png" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
-  showMoreLink = false
+  showMoreLink = true
   showMoreLinkDest = "/posts"
   cardView = false
   cardViewScreenWidth = false
@@ -48,11 +48,11 @@ disableImageOptimization = true
 [article]
   showDate = true
   showViews = false
-  showLikes = false
+  showLikes = true
   showDateUpdated = false
   showAuthor = true
-  showHero = false
-  # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "big" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
