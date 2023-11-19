@@ -1,6 +1,6 @@
 ---
-title: "Ce que j'ai retenue et apprécié du cours !"
-date: 2023-11-11T09:03:20-08:00
+title: "Ce que j'ai retenue et apprécié du cours (hugo) !"
+date: 2023-11-11T09:03:20-09:00
 draft: false
 description: ""
 ---
@@ -26,6 +26,10 @@ La diversité des thèmes disponibles et la possibilité de les personnaliser fa
 ### Structure Modulaire
 
 La structure modulaire de Hugo simplifie la gestion du contenu, offrant une organisation claire et une évolutivité remarquable. Cette approche modulaire rend la création et la maintenance des sites plus accessibles, même pour les débutants.
+
+## Difficulté rencontré
+
+Le principal défi auquel j'ai été confronté était d'insérer une image en tant que logo sur la page d'accueil et avant le titre du site. En revanche, l'ajout d'une image pour les articles individuels s'est avéré étonnamment facile et direct.
 
 ## Conclusion : Une Exploration Prometteuse
 
